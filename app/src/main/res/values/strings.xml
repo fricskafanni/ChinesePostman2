@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChinesePostman</string>
+    <string name="graph">Gráfok</string>
+    <string name="k_nai_post_s_probl_ma">Chinese Postman problem</string>
+</resources>
